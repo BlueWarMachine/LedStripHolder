@@ -1,2 +1,3 @@
 # LedStripHolder
-![image1](./20210903_202131.jpg)
+![image1](./profile.png)
+![image1](./profile2.png)
